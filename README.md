@@ -1,4 +1,4 @@
-# Ubuntu Flow 23.06 - Mainline 6.3.6 Kernel
+# Ubuntu Flow 23.06 - Mainline 6.3.7 Kernel
 
 ![alt text](https://i.imgur.com/gQRaIX0.png)
 
@@ -8,9 +8,8 @@
   Build revision reflects updates (23.0x)
 
 # Downloads
-[placeholder]
-
-## [Ubuntu Flow 23.06 / 6.3.6]()
+MD5: c120410f0a99e27b22e0531ae9678b18
+## [Ubuntu Flow 23.06 - Kernel 6.3.7](https://drive.google.com/file/d/13PJRg8Bid4i2oMqz03gEh8kxz0hN71O7)
 
 # Changelog
 
@@ -21,16 +20,13 @@
   - universe ppa
   - multiverse ppa
   - mozilla ppa
-  - APT firefox
+  - apt firefox
 
 ### Changed
-  - linux kernel 6.3.6
-  - Grub menu now says "Ubuntu Flow 23"
-  - Neofetch now reads "Ubuntu Flow 23"
-  - Grub menu timer from LiveUSB set to 69 seconds (..nice)
-  - Default theme
-  - Cursor
-  - Wallpaper
+  - linux kernel 6.3.7
+  - grub menu labels
+  - os fancy name "Ubuntu flow 23"
+  - grub menu timer for liveusb set to 69 seconds (..nice)
 
 ### Removed
   - snap packages
@@ -38,7 +34,16 @@
   - snap-store
   - old kernel
 
+### To do
+  - default theme
+  - cursor
+  - gnome tweaks
+  - gnome extensions
+  - wallpaper
+  - virtualbox dependancies
+  - logo
+
 # Contributions
   - [Ubuntu 23.04](https://cdimage.ubuntu.com/daily-live)
-  - [LTS Kernel](https://kernel.ubuntu.com/~kernel-ppa/mainline/?C=N;O=D)
+  - [Mainline Kernel](https://kernel.ubuntu.com/~kernel-ppa/mainline/?C=N;O=D)
   - [Cubic](https://github.com/PJ-Singh-001/Cubic)
